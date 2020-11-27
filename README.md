@@ -138,9 +138,20 @@ Final grade: 5.75 (6.0 scale).
 
 #### 252-1424-00L Models of Computation
 
+A whistle-stop tour of many exciting and exotic models of computation, beyond
+the traditional FSAs, CFGs and TMs.
 [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136149&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
 ETCS credits: 6.
 Final grade: 6.0 (6.0 scale).
+
+* This subject offered challenging weekly puzzles, several for each new model
+  of computation which we studied.
+
+    I was proud to complete every puzzle successfully. However, so as not to
+    spoil these puzzles for future students I will not publish my solutions.
+
+* The final project involved designing and studying and then lecturing about
+  my own model of computation.
 
 #### 363-0588-00L Complex Networks
   
@@ -148,3 +159,13 @@ Final grade: 6.0 (6.0 scale).
 ECTS credits: 4.
 Final grade: 6.0 (6.0 scale)
 
+
+## TODO:
+
+Notes to self:
+
+* Add project details for neural systems group project.
+* Add final project details for models of computation.
+* Add projects details and reports from 2019 machine learning classes and
+  compiler project from PLI.
+* Add Sierpinski triangle image for Models of Computation.
