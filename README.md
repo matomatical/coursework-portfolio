@@ -26,17 +26,17 @@ with links to samples of my work, and some comments on what I learned.
 * [2021](#2021)
 * [Semester 2, 2020](#semester-2-2020-)
   * [COMP90044 Research Methods](#comp90044-research-methods)
-* [Semester 1, 2020]()
-  * [227-0395-00L Neural Systems]()
-  * [363-0588-00L Complex Networks]()
+* [Semester 1, 2020](#semester-1-2020-)
+  * [227-0395-00L Neural Systems](#227-0395-00l-neural-systems)
+  * 363-0588-00L Complex Networks
   * 252-1424-00L Models of Computation
   * 252-0526-00L Statistical Learning Theory
-* [Semester 2, 2019]()
-  * [COMP90051 Statistical Machine Learning]()
-  * [PHYC90045 Introduction to Quantum Computing]()
-* [Semester 1, 2019]()
-  * [COMP90049 Web Search and Text Analysis]()
-  * [COMP90045 Programming Language Implementation]()
+* Semester 2, 2019
+  * COMP90051 Statistical Machine Learning
+  * PHYC90045 Introduction to Quantum Computing
+* Semester 1, 2019
+  * COMP90049 Web Search and Text Analysis
+  * COMP90045 Programming Language Implementation
 
 ### 2021
 
@@ -105,7 +105,7 @@ to complete my studies from Melbourne (living on Zürich time to attend
 live Zoom lectures) including a group project on links between neuroscience
 and artificial intelligence:
 
-#### Neural Systems
+#### 227-0395-00L Neural Systems
 
 This subject, billed as 'an introduction to neuroscience for engineers',
 pushed me far outside of my confort zone. I will publish details of my
