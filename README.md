@@ -21,7 +21,7 @@ Science at The University of Melbourne
 The following is a list of my most recent substantial coursework projects,
 with links to samples of my work, and some comments on what I learned.
 
-### Semester 2, 2020 :virus:
+### Semester 2, 2020 🦠 
 
 This semester was completed at the University of Melbourne's virtual campus.
 
@@ -31,6 +31,8 @@ This subject taught the fundamentals of research writing and conduct,
 using a mock research topic.
 [Handbook link](https://handbook.unimelb.edu.au/2020/subjects/comp90044/).
 Final grade forthcoming.
+
+![Distributional reinforcement learning](2020s2-comp90044/figure2.png)
 
 Assessment:
 
@@ -68,7 +70,7 @@ Assessment:
     Note: I was not asked to present this talk, but I did prepare as if to
     present it as part of validating the timing and balance of the talk.
 
-### Semester 1, 2020 :flag_ch: :virus:
+### Semester 1, 2020 🇨🇭🦠
 
 This semester, I went on an exchange to ETH Zürich. I had to return early
 due to the pandemic, but after recovering from this disruption I was able
