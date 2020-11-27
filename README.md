@@ -28,9 +28,9 @@ with links to samples of my work, and some comments on what I learned.
   * [COMP90044 Research Methods](#comp90044-research-methods)
 * [Semester 1, 2020](#semester-1-2020-)
   * [227-0395-00L Neural Systems](#227-0395-00l-neural-systems)
-  * 363-0588-00L Complex Networks
+  * [252-0526-00L Statistical Learning Theory](#252-0526-00l-statistical-learning-theory)
   * 252-1424-00L Models of Computation
-  * 252-0526-00L Statistical Learning Theory
+  * 363-0588-00L Complex Networks
 * Semester 2, 2019
   * COMP90051 Statistical Machine Learning
   * PHYC90045 Introduction to Quantum Computing
@@ -114,16 +114,37 @@ project work shortly.
 ECTS credits: 6.
 Final grade: 6.0 (6.0 scale).
 
-#### Other ETH subjects
+TODO: Add assessment details
 
-* Complex Networks
-  [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=135015&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
-  ECTS credits: 4.
-  Final grade: 6.0 (6.0 scale)
-* Statistical Learning Theory
-  [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136191&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
-  ETCS credits: 7.
-  Final grade: 5.75 (6.0 scale).
-* Models of Computation [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136149&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
-  ETCS credits: 6.
-  Final grade: 6.0 (6.0 scale).
+#### 252-0526-00L Statistical Learning Theory
+
+This subject pushed my mathematical background and deepened my understanding
+of statistics and machine learning.
+[Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136191&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
+ETCS credits: 7.
+Final grade: 5.75 (6.0 scale).
+
+* The class involved fortnightly programming projects using Jupyter notebooks,
+  numpy, scipy, matplotlib, etc.
+
+    I will not publish my work for these projects because, as I understand,
+    the same projects will be used in future semesters.
+
+* However, some code I whipped up while studying similar topics during the
+  semester is demonstrated
+  [here](https://github.com/matomatical/cse-graph-layout) and
+  [here](https://github.com/matomatical/gmm-em-algorithm).
+
+    ![Gaussian mixture models estimation animation](https://github.com/matomatical/gmm-em-algorithm/blob/master/em.gif)
+
+#### 252-1424-00L Models of Computation
+[Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136149&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
+ETCS credits: 6.
+Final grade: 6.0 (6.0 scale).
+
+#### 363-0588-00L Complex Networks
+  
+[Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=135015&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
+ECTS credits: 4.
+Final grade: 6.0 (6.0 scale)
+
