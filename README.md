@@ -76,7 +76,7 @@ Assessment:
     its own sake, and I obtained a more cohesive review after removing it.
     (For a more technical report, see my work for Neural Systems from 2020s1.)
 
-    <img alt="Distributional reinforcement learning" src="2020s2-comp90044/figure-2.png" height=50/>
+    <img alt="Distributional reinforcement learning" src="2020s2-comp90044/figure-2.png" height=150/>
 
 * For the second assignment, I designed and reported a
   [research plan](2020s2-comp90044/farrugia2020distRL-plan.pdf)
@@ -134,8 +134,7 @@ Final grade: 5.75 (6.0 scale).
   semester is available in other repositories:
   * [Constant-shift embedding method for graph layout](https://github.com/matomatical/cse-graph-layout)
   * [Estimation of Gaussian mixture model parameters using EM algorithm](https://github.com/matomatical/gmm-em-algorithm)
-
-        <img alt="Gaussian mixture models estimation animation" src="https://github.com/matomatical/gmm-em-algorithm/blob/master/em.gif" height="50"/>
+  <img alt="Gaussian mixture models estimation animation" src="https://github.com/matomatical/gmm-em-algorithm/blob/master/em.gif" height="150"/>
 
 #### 252-1424-00L Models of Computation
 
