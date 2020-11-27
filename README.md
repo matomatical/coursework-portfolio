@@ -24,8 +24,8 @@ with links to samples of my work, and some comments on what I learned.
 ### Table of Contents
 
 * [2021](#2021)
-* [Semester 2, 2020]()
-  * [COMP90044 Research Methods]()
+* [Semester 2, 2020](#semester-2-2020-)
+  * [COMP90044 Research Methods](#comp90044-research-methods)
 * [Semester 1, 2020]()
   * [227-0395-00L Neural Systems]()
   * [363-0588-00L Complex Networks]()
@@ -58,7 +58,6 @@ using a mock research topic.
 [Handbook link](https://handbook.unimelb.edu.au/2020/subjects/comp90044/).
 Final grade forthcoming.
 
-![Distributional reinforcement learning](2020s2-comp90044/figure-2.png)
 
 Assessment:
 
@@ -76,6 +75,8 @@ Assessment:
     occasions I was only attempting to introduce mathematical detail for
     its own sake, and I obtained a more cohesive review after removing it.
     (For a more technical report, see my work for Neural Systems from 2020s1.)
+
+    ![Distributional reinforcement learning](2020s2-comp90044/figure-2.png)
 
 * For the second assignment, I designed and reported a
   [research plan](2020s2-comp90044/farrugia2020distRL-plan.pdf)
