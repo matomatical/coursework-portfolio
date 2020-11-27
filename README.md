@@ -131,10 +131,9 @@ Final grade: 5.75 (6.0 scale).
     the same projects will be used in future semesters.
 
 * However, some code I whipped up while studying similar topics during the
-  semester is demonstrated
-  [here](https://github.com/matomatical/cse-graph-layout) and
-  [here](https://github.com/matomatical/gmm-em-algorithm).
-
+  semester is available in other repositories:
+  * [Constant-shift embedding method for graph layout](https://github.com/matomatical/cse-graph-layout)
+  * [Estimation of Gaussian mixture model parameters using EM algorithm](https://github.com/matomatical/gmm-em-algorithm)
     ![Gaussian mixture models estimation animation](https://github.com/matomatical/gmm-em-algorithm/blob/master/em.gif)
 
 #### 252-1424-00L Models of Computation
