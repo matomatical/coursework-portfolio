@@ -21,6 +21,32 @@ Science at The University of Melbourne
 The following is a list of my most recent substantial coursework projects,
 with links to samples of my work, and some comments on what I learned.
 
+### Table of Contents
+
+* [2021](#2021)
+* [Semester 2, 2020]()
+  * [COMP90044 Research Methods]()
+* [Semester 1, 2020]()
+  * [227-0395-00L Neural Systems]()
+  * [363-0588-00L Complex Networks]()
+  * 252-1424-00L Models of Computation
+  * 252-0526-00L Statistical Learning Theory
+* [Semester 2, 2019]()
+  * [COMP90051 Statistical Machine Learning]()
+  * [PHYC90045 Introduction to Quantum Computing]()
+* [Semester 1, 2019]()
+  * [COMP90049 Web Search and Text Analysis]()
+  * [COMP90045 Programming Language Implementation]()
+
+### 2021
+
+In 2021, having completed my coursework, I will embark upon my
+1-year Master's thesis project.
+The plan is to study the mathematics of deep learning algorithms
+with [Assistant Professor Dr. Daniel Murfet](http://therisingsea.org/)
+over in the School of Mathematics and Statistics.
+Wish me luck!
+
 ### Semester 2, 2020 🦠 
 
 This semester was completed at the University of Melbourne's virtual campus.
@@ -32,7 +58,7 @@ using a mock research topic.
 [Handbook link](https://handbook.unimelb.edu.au/2020/subjects/comp90044/).
 Final grade forthcoming.
 
-![Distributional reinforcement learning](2020s2-comp90044/figure2.png)
+![Distributional reinforcement learning](2020s2-comp90044/figure-2.png)
 
 Assessment:
 
@@ -83,3 +109,20 @@ and artificial intelligence:
 This subject, billed as 'an introduction to neuroscience for engineers',
 pushed me far outside of my confort zone. I will publish details of my
 project work shortly.
+[Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=135004&).
+ECTS credits: 6.
+Final grade: 6.0 (6.0 scale).
+
+#### Other ETH subjects
+
+* Complex Networks
+  [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=135015&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
+  ECTS credits: 4.
+  Final grade: 6.0 (6.0 scale)
+* Statistical Learning Theory
+  [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136191&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
+  ETCS credits: 7.
+  Final grade: 5.75 (6.0 scale).
+* Models of Computation [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136149&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
+  ETCS credits: 6.
+  Final grade: 6.0 (6.0 scale).
