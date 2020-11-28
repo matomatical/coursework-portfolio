@@ -3,31 +3,27 @@
 A directory of of my advanced coursework projects from the Master of Computer
 Science at The University of Melbourne:
 
+## Projects
 
-## Highlights
+*Tailored Expectile Imputation Algorithms for Efficient
+Expectile-based Distributional Reinforcement Learning*,
+COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
+\[[research plan](farrugia2020distRL-review.pdf); [presentation](farrugia2020distRL-talk.pdf)\]
+\[**general audience**; [project details](#comp90044-research-methods)\]
 
-* Farrugia-Roberts, Matthew,
-  *Tailored Expectile Imputation Algorithms for Efficient
-  Expectile-based Distributional Reinforcement Learning*,
-  COMP90044 Research Methods, semester 2, 2020.
-  \[[plan](farrugia2020distRL-review.pdf); [presentation](farrugia2020distRL-talk.pdf)\]
-  \[**general audience**; [details](#comp90044-research-methods)\]
+*The Promise of Distributional Reinforcement Learning*,
+COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
+\[[literature review](farrugia2020distRL-review.pdf)\]
+\[**general audience**; [project details](#comp90044-research-methods)\]
 
-* Farrugia-Roberts, Matthew,
-  *The Promise of Distributional Reinforcement Learning*,
-  COMP90044 Research Methods, semester 2, 2020.
-  \[[review](farrugia2020distRL-review.pdf)\]
-  \[**general audience**; [details](#comp90044-research-methods)\]
+*Expectile-based Distributional Reinforcement Learning and
+Dopamine-associated Mental Disorders*,
+227-0395-00L Neural Systems, ETH Zürich, semester 1, **2020**.
+\[[report](farrugia2020expectiles-dopamine.pdf)\]
+\[**group work**; [project details](#227-0395-00l-neural-systems)\]
 
-* **Technical work and writing**: My recent
-  [report](farrugia2020expectiles-dopamine.pdf)
-  on links between distributional reinforcement learning and neuroscientific
-  models of the mammalian reward system.
-  This (group work, but I was the main contributor to much of this report)
-  showcases my more technical communication abilities.
-  For more context, see [below](#227-0395-00l-neural-systems).
 
-  On a different topic, see also my group's [report](farrugia2019space.pdf)
+* On a different topic, see also my group's [report](farrugia2019space.pdf)
   on scalable massively-multiauthor authorship profiling and attribution.
   This work shows some algorithmic work and also end-to-end training and
   evaluation work for a challenging data-sparse supervised learning
