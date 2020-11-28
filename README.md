@@ -43,7 +43,7 @@ implementation, writing sections 1.1, 1.3, 2, 3, appendix A)\]
 *Implementing Expectation-Maximisation Algorithm for Gaussian Mixture Model
 Parameter Estimation*,
 252-0526-00L Statistical Learning Theory, ETH Zürich, semester 1, **2020**.
-\[[repo](https://github.com/matomatical/gmm-em-algorithm)\]
+\[[code](https://github.com/matomatical/gmm-em-algorithm)\]
 \[personal study project\]
 \[[class details](#252-0526-00l-statistical-learning-theory)\]
 
@@ -58,7 +58,8 @@ semester 2, **2019**.
 designing leading model, mathematical details in report)\]
 
 
-## Complete Projects
+
+## Complete List of Coursework and Projects
 
 Contents:
 
@@ -97,8 +98,9 @@ Assessment:
     challenging given the mathematical tone of much of the literature.
     In the end, I was impressed by how I was able to distill the important
     messages without resorting to any equations. In fact, on several
-    occasions I was only attempting to introduce mathematical detail for
-    its own sake, and I obtained a more cohesive review after removing it.
+    occasions I found I was only attempting to introduce mathematical
+    detail for its own sake, and I obtained a more cohesive review
+    after removing it.
 
     ![Distributional reinforcement learning](images/figure-2.png)
 
@@ -124,21 +126,22 @@ Assessment:
 
 #### 227-0395-00L Neural Systems
 
-This subject, billed as 'an introduction to neuroscience for engineers',
-pushed me far outside of my comfort zone, but rewarded me with a basic
-knowledge of the fundamentals of neuroscience and also reinforcement
-learning (which I read up on for the project).
+An introduction to neuroscience for engineers. This subject pushed me
+far outside of my comfort zone, but rewarded me with a basic knowledge
+of the fundamentals of neuroscience and also reinforcement learning
+(I read up on RL for the project).
 [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=135004&).
 ECTS credits: 6.
 Final grade: 6.0 (6.0 scale).
 
 Assessment:
 
-* The major project work was an open-ended interdisciplinary team research
-  project. Supervised by our lecturer, we were asked to, essentially:
+* The major project was an open-ended interdisciplinary team research
+  project. Supervised by our lecturer, we were asked to:
 
-  > Find some interesting parallel between machine learning and
-  > neuromodulation, and see if one of these fields can inform the other.
+  > find some interesting parallel between machine learning and
+  > neuromodulation, and see if an insight from either of these
+  > fields can inform the other.
 
   Over the semester we developed some ideas concerning DeepMind's
   *distributional hypothesis of dopaminergic signalling*.
@@ -166,17 +169,20 @@ Assessment:
   * We found a number of other minor insights which we included in the
     appendix.
 
-  This was a group project, and the whole group met regularly to discuss
-  and eventually crystallise our hypotheses and model.
+  This was a **group project**.
+  The whole group met regularly to discuss and eventually crystallise our
+  hypotheses and model.
   I was partly responsible for understanding the technical RL side of the
   work, and I am indebted to my team members for helping me to understand
-  the neuroscience side. I was also responsible for designing and running
-  the majority of our simulation experiments.
-  In the report, I was the main contributor to sections 1.1, 1.3, 2, 3, and
-  appendix A. Please see these sections for examples of my work.
+  the neuroscience side.
+  I was also responsible for designing and running the majority of our
+  simulation experiments.
+  For the report, I was the main contributor to sections 1.1, 1.3, 2, 3,
+  and the sole constributor to appendix A.
+  Please see these sections for examples of my work.
 
-  Some of my code used in our experiments can be found in other repositories,
-  see:
+  Some of the code I used in these experiments can be found in other
+  repositories, see:
 
     * [an efficient algorithm for computing sample expectiles](https://github.com/matomatical/expectiles), and
     * [working notebooks for exploring expectiles and distributional RL](https://github.com/matomatical/neuRL).
@@ -184,14 +190,15 @@ Assessment:
   This was a substantial project, and it pushed me to learn a lot about
   the reward system (not to mention reinforcement learning, which I had
   actually never studied before---I read all of Sutton and Barto over a
-  few weeks during this project). I also got to practice writing RL and
-  ML Python code using the scientific stack and, though most of our
-  eventual experiments were tabular, a little tensorflow.
+  few weeks during this project).
+  I also got to practice writing RL and ML Python code using the scientific
+  stack and, though most of our eventual experiments were tabular, a little
+  tensorflow.
 
 #### 252-0526-00L Statistical Learning Theory
 
-This subject pushed my mathematical background and deepened my understanding
-of statistics and machine learning.
+This subject pushed my mathematical skills to a new level, and
+deepened my understanding of statistics and machine learning.
 [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136191&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
 ETCS credits: 7.
 Final grade: 5.75 (6.0 scale).
@@ -201,17 +208,18 @@ Assessment:
 * The class involved fortnightly programming projects using Jupyter notebooks,
   numpy, scipy, matplotlib, etc.
 
-    I will not publish my work for these projects because, as I understand,
-    the same projects will be used in future semesters.
+  I will not publish my work for these projects because, as I understand,
+  the same projects will be used in future semesters.
 
-    These projects pushed my technical skills perhaps the furthest during my
-    exchange experience, as I really had to master numpy and some aspects of
-    scipy to get the algorithms to run at the scale that was required.
-    In the end I was impressed by how far I had come in my ability to write
-    efficient scalable code using vectorisation and matrix operations.
+  These projects pushed my technical skills perhaps the furthest during my
+  exchange experience, as I really had to master numpy and some aspects of
+  scipy to get the algorithms to run at the scale that was required.
+  In the end I was impressed by how far I had come in my ability to write
+  efficient scalable code using vectorisation and matrix operations.
 
 * However, some code I whipped up while studying similar topics during the
   semester is available in other repositories:
+
   * [Constant-shift embedding method for graph layout](https://github.com/matomatical/cse-graph-layout).
   * [Estimation of Gaussian mixture model parameters using EM algorithm](https://github.com/matomatical/gmm-em-algorithm).
     ![Gaussian mixture models estimation animation](https://github.com/matomatical/gmm-em-algorithm/blob/master/em.gif)
@@ -228,21 +236,19 @@ Assessment:
 
 * This subject offered challenging weekly puzzles, several for each new model
   of computation which we studied.
+  I was proud to complete every puzzle successfully. However, so as not to
+  spoil these puzzles for future students I will not publish my solutions.
 
-    I was proud to complete every puzzle successfully. However, so as not to
-    spoil these puzzles for future students I will not publish my solutions.
-
-    The study of so many of models gave me a broader perspective on
-    computation, which remains one of the most fascinating ideas I have
-    ever studied.
+  The study of so many of models gave me a broader perspective on computation
+  itself, which remains one of the most fascinating ideas I have ever studied.
 
 * The final project involved designing and studying and then delivering a
   lecture about my own original model of computation.
 
   I am not certain how original my idea was, but I explored what I called
   a *society of finite-state transducers*, which was the result of composing
-  the input/output streams of finite-state transducers in a network.
-
+  the input/output streams of finite-state transducers in a (finite or
+  infinite) network.
   Regrettably, I don't have a recording of the presentation, which was
   partly at a virtual whiteboard.
 
@@ -258,17 +264,15 @@ Assessment:
 * In weekly coding exercises, we implemented many ideas from complex networks
   such as random graph models and various measures of centrality.
 
-    Once again, I have decided not to share my solutions since the same
-    exercises are likely to be used in future semesters.
+  I will not to share my solutions since the same exercises are likely to
+  be used in future semesters.
 
-    However, I should say that I really learned a lot about using Python's
-    scientific stack (esp. numpy, matplotlib) during these exercises.
-    I pushed myself to vectorise as many components of the network algorithms
-    we were implementing as we went, to the point where I became infamous in
-    the weekly tutorials for saying 'did you know you can do that faster
-    using numpy?' Well, anyway, I had a lot of fun embracing arrays, so I
-    didn't mind.
-
+  However, I really learned a lot about using Python's scientific stack
+  (esp. numpy, matplotlib) during these exercises. I pushed myself to
+  vectorise as many components of the network algorithms as as possible.
+  I essentially became infamous in our weekly tutorials for saying
+  'did you know you can do that faster using numpy?' whenever the tutor
+  presented their solution.
 
 
 #### COMP90051 Statistical Machine Learning
@@ -283,8 +287,9 @@ Assessment:
 * Our major project was an *extreme authorship attribution* group challenge.
   My team and I implemented several models for authorship attribution of
   micro textual data (Tweets) for over 10,000 users.
-  We placed third on the class leaderboard in the public and held-out
-  evaluations.
+  We placed third on the
+  [class leaderboard](https://www.kaggle.com/c/whodunnit)
+  in the public and held-out evaluations.
   Our approach is summarised in our [report](farrugia2019space.pdf)
   and our code can be found in
   [this repository](https://github.com/matomatical/SML-project-1).
@@ -306,23 +311,20 @@ Assessment:
 
 #### PHYC90045 Introduction to Quantum Computing
 
-An introduction to quantum computing for non-physicists.
+A comprehensive introduction to quantum computing for non-physicists.
 [Handbook link](https://handbook.unimelb.edu.au/2019/subjects/phyc90045/).
 Final grade: 99.
 
 * We studied topics all the way from the basic one-qubit gates to
-  the QFT, Shor's algorithm,
-  quantum annealing architectures,
-  quantum communication,
-  error-correcting surface codes,
-  quantum computational complexity theory, and
-  more.
+  the QFT, Shor's algorithm, quantum annealing architectures, quantum
+  communication, error-correcting surface codes, quantum computational
+  complexity theory, and more.
 
-  We used the University of Melbourne's Qauntum User Interface,
+* We used the University of Melbourne's Qauntum User Interface,
   and IBM Q's real quantum computers.
-  (There was also a class on using a DWAVE annealer, but I missed it!)
+  (There was also a class on using a real DWave annealer, but I missed it!)
   
-  Since the assignments are re-used from year to year, I won't publish my
+* Since the assignments are re-used from year to year, I won't publish my
   solutions.
 
 
@@ -336,21 +338,21 @@ Final grade: 98.
 Assessment:
 
 * The main project in this class was a pair project to implement an
-  *automatic fact verification system* based on a Wikipedia-derived dataset
-  ('FEVER').
+  *automatic fact verification system* based on the Wikipedia-derived
+  'FEVER' dataset.
 
   My project partner and I were able to achieve early leading
   performance on the class leaderboard using a multi-stage evidence
   retrieval and classification system we dubbed SHERLOCK
   (we were eventually left behind---it seems we should have just used
   BERT for sentence embeddings!).
-  Our work is summarised well in our [final report](farrugia2019sherlock.pdf)
+  Our work is summarised in our [final report](farrugia2019sherlock.pdf)
   (unfortunately our code is not publically available).
 
   This project was my first experience implementing, training, and
   tuning machine learning models. I worked closely with my project partner
   throughout the entire project. However, I was chiefly responsible
-  for steps 1--3 (out of 5) in our pipeline.
+  for the first half of our multi-step pipeline.
 
 #### COMP90045 Programming Language Implementation
 
@@ -361,11 +363,11 @@ Final grade: 99.
 
 Assessment:
 
-* Our semester project was to implement, in teams of several students, a
-  compiler for a toy language called 'Goat'. The compiler was implemented
-  in Haskell using the Parsec monadic parser combinator library, and we
-  implemented a monadic code generation library too. We also explored
-  lexer and parser generators for Haskell (alex and happy).
+* Our semester project was to implement, in teams, a compiler for a toy
+  language called 'Goat'. The compiler was implemented in Haskell. We used
+  the Parsec monadic parser combinator library, and implemented a monadic
+  code generation library too. We also explored lexer and parser generators
+  for Haskell (alex and happy).
 
   The code for our final compiler, along with project specifications, is
   available in
@@ -374,3 +376,5 @@ Assessment:
   This assignment really pushed all of our Haskell skills, especially with
   monadic programming. We all worked closely together on the project, so it
   is difficult to identify any part which is chiefly my own contribution.
+
+
