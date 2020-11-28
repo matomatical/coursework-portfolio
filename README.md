@@ -10,14 +10,14 @@ the most up-to-date projects (and I think also the most interesting) are
 as follows:
 
 * Writing: My recent
-  [literature review](2020s2-comp90044/farrugia2020distRL-review.pdf)
+  [literature review](farrugia2020distRL-review.pdf)
   and
-  [hypothesis + research plan](2020s2-comp90044/farrugia2020distRL-plan.pdf)
+  [hypothesis + research plan](farrugia2020distRL-plan.pdf)
   on distributional reinforcement learning.
   These are written for a general CS audience and showcase my writing
   ability. For more context, see [below](#comp90044-research-methods).
 * Technical: My recent
-  [report](2020s1-227-0395-00L/farrugia2020expectiles-dopamine.pdf)
+  [report](farrugia2020expectiles-dopamine.pdf)
   on links between distributional reinforcement learning and neuroscientific
   models of the mammalian reward system.
   This (group work, but I was the main contributor to much of this report)
@@ -92,7 +92,7 @@ Assessment:
   I chose the topic of *distributional reinforcement learning*.
 
 * For the first assignment, I compiled a
-  [literature review](2020s2-comp90044/farrugia2020distRL-review.pdf)
+  [literature review](farrugia2020distRL-review.pdf)
   on distributional reinforcement learning.
 
     I wrote this review for a general CS audience, which was initially
@@ -103,10 +103,10 @@ Assessment:
     its own sake, and I obtained a more cohesive review after removing it.
     (For a more technical report, see my work for Neural Systems from 2020s1.)
 
-    ![Distributional reinforcement learning](2020s2-comp90044/figure-2.png)
+    ![Distributional reinforcement learning](images/figure-2.png)
 
 * For the second assignment, I designed and reported a
-  [research plan](2020s2-comp90044/farrugia2020distRL-plan.pdf)
+  [research plan](farrugia2020distRL-plan.pdf)
   for investigating a research question identified during my review.
 
     Once again, this plan was written for a general audience and I was
@@ -119,7 +119,7 @@ Assessment:
 
 * For the final assignment, I prepared a 5 minute talk describing my plan,
   for which I submitted this
-  [transcript and slide deck](2020s2-comp90044/farrugia2020distRL-talk.pdf).
+  [transcript and slide deck](farrugia2020distRL-talk.pdf).
 
     Note: I was not asked to present this talk, but I did prepare as if to
     present it as part of validating the timing and balance of the talk.
@@ -154,7 +154,7 @@ Assessment:
   Over the semester we developed some ideas concerning DeepMind's
   *distributional hypothesis of dopaminergic signalling*.
   The result was our
-  [final report](2020s1-227-0395-00L/farrugia2020expectiles-dopamine.pdf).
+  [final report](farrugia2020expectiles-dopamine.pdf).
 
   A brief summary of the key points:
 
@@ -279,6 +279,82 @@ Assessment:
     the weekly tutorials for saying 'did you know you can do that faster
     using numpy?' Well, anyway, I had a lot of fun embracing arrays, so I
     didn't mind.
+
+
+### Semester 2, 2019
+
+This semester, I studied part-time at the University of Melbourne's
+Parkville campus.
+
+#### COMP90051 Statistical Machine Learning
+
+Benjamin Rubinstein's subject on advanced topics in statistics and machine
+learning, including various equivalent perspectives on these methods.
+[Handbook link](https://handbook.unimelb.edu.au/2019/subjects/comp90051/).
+Final grade: 99.
+
+Assessment:
+
+* Our major project was an *extreme authorship attribution* group challenge.
+  My team and I implemented several models for authorship attribution of
+  micro textual data (Tweets) for over 10,000 users.
+  We placed third on the class leaderboard in the public and held-out
+  evaluations.
+  Our approach is summarised in our [report](farrugia2020space.pdf)
+  and our code can be found in
+  [this repository](https://github.com/matomatical/SML-project-1).
+
+  My team and I collaboratively implemented and evaluated our approach.
+  I was chiefly responsible for the mathematical details and was able to
+  contribute some algorithmic direction to help our programs scale (in
+  hindsight, we might have eeked out even more performance by switching
+  from pure python to numpy in key places).
+
+  I enjoyed this project a lot. I felt like we were working very close to
+  the forefront of this field, because we were innovating over the
+  implementation and approaches of the related works which we started from
+  and we were able to achieve reasonable success in this very challenging,
+  sparse-data problem.
+
+#### PHYC90045 Introduction to Quantum Computing
+
+An introduction to quantum computing for non-physicists.
+[Handbook link](https://handbook.unimelb.edu.au/2019/subjects/phyc90045/).
+Final grade: 99.
+
+* We studied topics all the way from the basic one-qubit gates to
+  the QFT, Shor's algorithm,
+  quantum annealing architectures,
+  quantum communication,
+  error-correcting surface codes,
+  quantum computational complexity theory, and
+  more.
+
+  We used the University of Melbourne's Qauntum User Interface,
+  and IBM Q's real quantum computers.
+  (There was also a class on using a DWAVE annealer, but I missed it!)
+  
+  Since the assignments are re-used from year to year, I won't publish my
+  solutions.
+
+### Semester 1, 2019
+
+This semester, I studied part-time at the University of Melbourne's
+Parkville campus.
+
+#### COMP90049 Web Search and Text Analysis
+
+Trevor Cohn's subject on advanced topics in modern information retrieval and
+natural language processing.
+[Handbook link](https://handbook.unimelb.edu.au/2019/subjects/comp90049/).
+Final grade: 98.
+
+#### COMP90045 Programming Language Implementation
+
+This subject taught the principles of compiler design and implementation,
+and we implemented a compiler for a toy language using Haskell.
+[Handbook link](https://handbook.unimelb.edu.au/2019/subjects/comp90045/).
+Final grade: 99.
 
 ## TODO:
 
