@@ -78,7 +78,7 @@ with links to samples of my work, and some comments on what I learned.
   * [COMP90051 Statistical Machine Learning](#comp90051-statistical-machine-learning)
   * [PHYC90045 Introduction to Quantum Computing](#phyc90045-introduction-to-quantum-computing)
 * [Semester 1, 2019](#semester-1-2019)
-  * [COMP90049 Web Search and Text Analysis](#comp90049-web-search-and-text-analysis)
+  * [COMP90042 Web Search and Text Analysis](#comp90042-web-search-and-text-analysis)
   * [COMP90045 Programming Language Implementation](#comp90045-programming-language-implementation)
 
 ### 2021
@@ -362,11 +362,11 @@ Final grade: 99.
 This semester, I studied part-time at the University of Melbourne's
 Parkville campus.
 
-#### COMP90049 Web Search and Text Analysis
+#### COMP90042 Web Search and Text Analysis
 
 Trevor Cohn's subject on advanced topics in modern information retrieval and
 natural language processing.
-[Handbook link](https://handbook.unimelb.edu.au/2019/subjects/comp90049/).
+[Handbook link](https://handbook.unimelb.edu.au/2019/subjects/comp90042/).
 Final grade: 98.
 
 Assessment:
