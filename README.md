@@ -3,13 +3,14 @@
 A directory of of my advanced coursework projects from the Master of Computer
 Science at The University of Melbourne:
 
-## Projects
+#### Selected Projects:
 
 *Tailored Expectile Imputation Algorithms for Efficient
 Expectile-based Distributional Reinforcement Learning*,
 COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
-\[[research plan](farrugia2020distRL-review.pdf); [presentation](farrugia2020distRL-talk.pdf)\]
-\[**general audience**; [project details](#comp90044-research-methods)\]
+\[[research plan](farrugia2020distRL-review.pdf) (**general audience**)\]
+\[[presentation](farrugia2020distRL-talk.pdf) (**general audience**)\]
+\[[project details](#comp90044-research-methods)\]
 
 *The Promise of Distributional Reinforcement Learning*,
 COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
@@ -20,23 +21,25 @@ COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
 Dopamine-associated Mental Disorders*,
 227-0395-00L Neural Systems, ETH Zürich, semester 1, **2020**.
 \[[report](farrugia2020expectiles-dopamine.pdf)\]
-\[**group work**; [project details](#227-0395-00l-neural-systems)\]
+\[**group work** (main contributions in reading RL literature,
+implementation, writing sections 1.1, 1.3, 2, 3, appendix A)\]
+\[[project details](#227-0395-00l-neural-systems)\]
 
+*Implementing Expectation-Maximisation Algorithm for Gaussian Mixture Model
+Parameter Estimation*,
+252-0526-00L Statistical Learning Theory, ETH Zürich, semester 1, **2020**.
+\[[repo](https://github.com/matomatical/gmm-em-algorithm)\]
+\[personal study project; [class details](#252-0526-00l-statistical-learning-theory)\]
 
-* On a different topic, see also my group's [report](farrugia2019space.pdf)
-  on scalable massively-multiauthor authorship profiling and attribution.
-  This work shows some algorithmic work and also end-to-end training and
-  evaluation work for a challenging data-sparse supervised learning
-  problem.
-  For more context, see [below](#COMP90051-statistical-machine-learning).
-* **Programming**: Several of the projects described below showcase my
-  development with Python's scientific stack (especially writing efficient
-  numpy code using vectorisation and matrix operations). Much of this
-  code is embargoed for academic integrity reasons but you can see
-  this implementation of
-  [Expectation-Maximisation for GMM estimation](https://github.com/matomatical/gmm-em-algorithm)
-  for an example of my proficiency with these tools.
-  For more context, see [below](#252-0526-00l-statistical-learning-theory).
+*Scalable Massively Multi-author Profiling and Attribution of Micro-Messages*,
+COMP90051 Statistical Machine Learning, the University of Melbourne,
+semester 2, **2020**.
+\[[report](farrugia2019space.pdf)\]
+\[[code](https://github.com/matomatical/SML-project-1)\]
+\[[kaggle](https://www.kaggle.com/c/whodunnit) (3rd place)\]
+\[**group work** (main contributions in scalability/algorithmic improvements,
+designing leading model, mathematical details in report)\]
+\[[project details](#COMP90051-statistical-machine-learning)\]
 
 Below is a more detailed description of this and other work from throughout
 my coursework degree.
