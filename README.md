@@ -23,8 +23,8 @@ projects (and I think also the most interesting) are as follows:
   showcases my more technical communication abilities.
   For more context, see [below](#227-0395-00l-neural-systems).
 
-  On a different topic, see also my group's [report](farrugia2019space) on
-  scalable massively-multiauthor authorship profiling and attribution.
+  On a different topic, see also my group's [report](farrugia2019space.pdf)
+  on scalable massively-multiauthor authorship profiling and attribution.
   This work shows some algorithmic work and also end-to-end training and
   evaluation work for a challenging data-sparse supervised learning
   problem.
@@ -246,8 +246,8 @@ Assessment:
 
 #### 252-1424-00L Models of Computation
 
-A whistle-stop tour of many exciting and exotic models of computation, beyond
-the traditional FSAs, CFGs and TMs.
+Matthew Cook's whistle-stop tour of many exciting and exotic models of
+computation, beyond the traditional FSAs, CFGs and TMs.
 [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136149&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
 ETCS credits: 6.
 Final grade: 6.0 (6.0 scale).
