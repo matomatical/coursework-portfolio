@@ -66,13 +66,12 @@ Contents:
 * Semester 2, 2020 (Part-time @ University of Melbourne, virtual campus 🦠)
   * [COMP90044 Research Methods](#comp90044-research-methods)
 * Semester 1, 2020 (Exchange @ ETH Zürich, interrupted but continued online)
-  * [COMP90044 Research Methods](#comp90044-research-methods)
   * [227-0395-00L Neural Systems](#227-0395-00l-neural-systems)
   * [252-0526-00L Statistical Learning Theory](#252-0526-00l-statistical-learning-theory)
   * [252-1424-00L Models of Computation](#252-1424-00l-models-of-computation)
   * [363-0588-00L Complex Networks](#363-0588-00l-complex-networks)
-  * Agent-based Modelling of Social Systems (TODO)
-  * Game Theory for Control (TODO)
+  * 363-0543-00L Agent-Based Modelling of Social Systems [audited]
+  * 227-0694-00L Game Theory and Control [audited]
 * Semester 2, 2019 (Part-time @ University of Melbourne)
   * [COMP90051 Statistical Machine Learning](#comp90051-statistical-machine-learning)
   * [PHYC90045 Introduction to Quantum Computing](#phyc90045-introduction-to-quantum-computing)
