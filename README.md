@@ -177,7 +177,7 @@ Assessment:
   I was also responsible for designing and running the majority of our
   simulation experiments.
   For the report, I was the main contributor to sections 1.1, 1.3, 2, 3,
-  and the sole constributor to appendix A.
+  and the sole contributor to appendix A.
   Please see these sections for examples of my work.
 
   Some of the code I used in these experiments can be found in other
