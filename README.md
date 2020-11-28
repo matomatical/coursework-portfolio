@@ -5,14 +5,19 @@ Science at The University of Melbourne
 
 ## Notes
 
-* While the reports written for my university projects usually end up quite
-  polished by the submission deadline, the code usually does *not*.
-  This code is usually written over a short project timescale, typically a
-  only a few weeks. It's often not intended for readability. I encourage
-  not looking too closely.
+* The reports written for my university projects usually end up quite
+  polished by the submission deadline, but the code usually does *not*.
+  This code is usually written over a few weeks and with minimal effort in
+  readability. Here be dragons.
 
-* Publication here does not grant you permission to use my work.
-  If you are a student, please do your own projects.
+* Some of the work listed here is joint work with other students, and/or
+  benefits from the guidance of lecturers or teaching assistants.
+  I have attempted to roughly outline which contributions are my own, and
+  I am grateful to have been able to work with such supportive peers.
+
+* Publication here does not grant you permission to use this work.
+  If you are a student, please do your own projects, because academic
+  integrity is to be valued.
   If you are not a student, please contact me to request a license before
   using anything in this repository.
 
@@ -29,7 +34,7 @@ with links to samples of my work, and some comments on what I learned.
 * [Semester 1, 2020](#semester-1-2020-)
   * [227-0395-00L Neural Systems](#227-0395-00l-neural-systems)
   * [252-0526-00L Statistical Learning Theory](#252-0526-00l-statistical-learning-theory)
-  * 252-1424-00L Models of Computation
+  * [252-1424-00L Models of Computation](#252-1424-00l-models-of-computation)
   * 363-0588-00L Complex Networks
 * Semester 2, 2019
   * COMP90051 Statistical Machine Learning
@@ -153,11 +158,14 @@ Final grade: 6.0 (6.0 scale).
 * The final project involved designing and studying and then lecturing about
   my own model of computation.
 
+TODO: Add details.
+
 #### 363-0588-00L Complex Networks
   
 [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=135015&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
 ECTS credits: 4.
 Final grade: 6.0 (6.0 scale)
+
 
 
 ## TODO:
