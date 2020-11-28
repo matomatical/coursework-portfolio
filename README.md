@@ -3,6 +3,27 @@
 A directory of of my advanced coursework projects from the Master of Computer
 Science at The University of Melbourne
 
+## Highlights
+
+If you're just looking for examples of my writing or technical work, then
+the most up-to-date projects (and I think also the most interesting) are
+as follows:
+
+* Writing: My recent
+  [literature review](2020s2-comp90044/farrugia2020distRL-review.pdf)
+  and
+  [hypothesis + research plan](2020s2-comp90044/farrugia2020distRL-plan.pdf)
+  on distributional reinforcement learning.
+  These are written for a general CS audience and showcase my writing
+  ability. For more context, see [below](#comp90044-research-methods).
+* Technical: My recent
+  [report](2020s1-227-0395-00L/farrugia2020expectiles-dopamine.pdf)
+  on links between distributional reinforcement learning and neuroscientific
+  models of the mammalian reward system.
+  This (group work, but I was the main contributor to much of this report)
+  showcases my more technical communication abilities.
+  For more context, see [below](#227-0395-00l-neural-systems).
+
 ## Notes
 
 * The reports written for my university projects usually end up quite
@@ -115,7 +136,9 @@ theory and control systems).
 #### 227-0395-00L Neural Systems
 
 This subject, billed as 'an introduction to neuroscience for engineers',
-pushed me far outside of my comfort zone.
+pushed me far outside of my comfort zone, but rewarded me with a basic
+knowledge of the fundamentals of neuroscience and also reinforcement
+learning (which I read up on for the project).
 [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=135004&).
 ECTS credits: 6.
 Final grade: 6.0 (6.0 scale).
@@ -123,19 +146,19 @@ Final grade: 6.0 (6.0 scale).
 Assessment:
 
 * The major project work was an open-ended interdisciplinary team research
-  project.
-  Supervised by our lecturer, we were asked to, essentially,
-  'find some interesting parallel between machine learning and
-  neuromodulation, and see if one of these fields can inform the other'.
+  project. Supervised by our lecturer, we were asked to, essentially:
 
-  The result is captured in our
-  [final report](2020s1-227-0395-00L/farrugia2020expectiles-dopamine.pdf),
-  and I give a brief summary of the key points below:
+  > Find some interesting parallel between machine learning and
+  > neuromodulation, and see if one of these fields can inform the other.
 
-* Over the semester we developed some ideas concerning Deep Mind's
-  *distributional hypothesis of dopaminergic signalling*. In summary:
+  Over the semester we developed some ideas concerning DeepMind's
+  *distributional hypothesis of dopaminergic signalling*.
+  The result was our
+  [final report](2020s1-227-0395-00L/farrugia2020expectiles-dopamine.pdf).
 
-  * Their Nature paper claims that dopaminergic neurons encode
+  A brief summary of the key points:
+
+  * DeepMind's Nature paper claims that dopaminergic neurons encode
     distributional information in their activity, akin to signals
     in the nascent *distributional reinforcement learning* paradigm,
     and in particular that the mammalian reward system may implement
@@ -151,22 +174,30 @@ Assessment:
   * We speculated that if the distributional hypothesis is correct then
     these defects could underly reward-system-related mental disorders such
     as addiction and Parkinson's disease.
+  * We found a number of other minor insights which we included in the
+    appendix.
 
-* This was a group project, and the whole group met regularly to discuss
+  This was a group project, and the whole group met regularly to discuss
   and eventually crystallise our hypotheses and model.
   I was partly responsible for understanding the technical RL side of the
   work, and I am indebted to my team members for helping me to understand
   the neuroscience side. I was also responsible for designing and running
   the majority of our simulation experiments.
-
   In the report, I was the main contributor to sections 1.1, 1.3, 2, 3, and
   appendix A. Please see these sections for examples of my work.
 
-  Some of the code used in our experiments can be found in other
-  repositories, see:
+  Some of my code used in our experiments can be found in other repositories,
+  see:
 
     * [an efficient algorithm for computing sample expectiles](https://github.com/matomatical/expectiles).
     * [working notebooks for exploring expectiles and distributional RL](https://github.com/matomatical/neuRL).
+
+  This was a substantial project, and it pushed me to learn a lot about
+  the reward system (not to mention reinforcement learning, which I had
+  actually never studied before---I read all of Sutton and Barto over a
+  few weeks during this project). I also got to practice writing RL and
+  ML Python code using the scientific stack and, though most of our
+  eventual experiments were tabular, a little tensorflow.
 
 #### 252-0526-00L Statistical Learning Theory
 
@@ -175,6 +206,8 @@ of statistics and machine learning.
 [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136191&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
 ETCS credits: 7.
 Final grade: 5.75 (6.0 scale).
+
+Assessment: 
 
 * The class involved fortnightly programming projects using Jupyter notebooks,
   numpy, scipy, matplotlib, etc.
@@ -196,31 +229,56 @@ the traditional FSAs, CFGs and TMs.
 ETCS credits: 6.
 Final grade: 6.0 (6.0 scale).
 
+Assessment: 
+
 * This subject offered challenging weekly puzzles, several for each new model
   of computation which we studied.
 
     I was proud to complete every puzzle successfully. However, so as not to
     spoil these puzzles for future students I will not publish my solutions.
 
-* The final project involved designing and studying and then lecturing about
-  my own model of computation.
+    The study of so many of models gave me a broader perspective on
+    computation, which remains one of the most fascinating ideas I have
+    ever studied.
 
-TODO: Add details.
+* The final project involved designing and studying and then delivering a
+  lecture about my own original model of computation.
+
+  I am not certain how original my idea was, but I explored what I called
+  a *society of finite-state transducers*, which was the result of composing
+  the input/output streams of finite-state transducers in a network.
+
+  Regrettably, I don't have a recording of the presentation, which was
+  partly at a virtual whiteboard.
 
 #### 363-0588-00L Complex Networks
   
+This class was an introduction to complex systems research using network models.
 [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=135015&semkez=2020S&ansicht=KATALOGDATEN&lang=en).
 ECTS credits: 4.
 Final grade: 6.0 (6.0 scale)
 
+Assessment:
 
+* In weekly coding exercises, we implemented many ideas from complex networks
+  such as random graph models and various measures of centrality.
+
+    Once again, I have decided not to share my solutions since the same
+    exercises are likely to be used in future semesters.
+
+    However, I should say that I really learned a lot about using Python's
+    scientific stack (esp. numpy, matplotlib) during these exercises.
+    I pushed myself to vectorise as many components of the network algorithms
+    we were implementing as we went, to the point where I became infamous in
+    the weekly tutorials for saying 'did you know you can do that faster
+    using numpy?' Well, anyway, I had a lot of fun embracing arrays, so I
+    didn't mind.
 
 ## TODO:
 
 Notes to self:
 
-* Add project details for neural systems group project.
-* Add final project details for models of computation.
+* Add more final project details for models of computation.
 * Add projects details and reports from 2019 machine learning classes and
   compiler project from PLI.
 * Add Sierpinski triangle image for Models of Computation.
