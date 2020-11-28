@@ -1,28 +1,35 @@
 # Coursework Portfolio
 
 A directory of of my advanced coursework projects from the Master of Computer
-Science at The University of Melbourne
+Science at The University of Melbourne.
 
 ## Highlights
 
-If you're just looking for examples of my writing or technical work, then
-the most up-to-date projects (and I think also the most interesting) are
-as follows:
+If you're just looking for examples of my work, then the most up-to-date
+projects (and I think also the most interesting) are as follows:
 
-* Writing: My recent
+* **General writing**: My recent
   [literature review](2020s2-comp90044/farrugia2020distRL-review.pdf)
   and
   [hypothesis + research plan](2020s2-comp90044/farrugia2020distRL-plan.pdf)
   on distributional reinforcement learning.
   These are written for a general CS audience and showcase my writing
   ability. For more context, see [below](#comp90044-research-methods).
-* Technical: My recent
+* **Technical writing**: My recent
   [report](2020s1-227-0395-00L/farrugia2020expectiles-dopamine.pdf)
   on links between distributional reinforcement learning and neuroscientific
   models of the mammalian reward system.
   This (group work, but I was the main contributor to much of this report)
   showcases my more technical communication abilities.
   For more context, see [below](#227-0395-00l-neural-systems).
+* **Programming**: Several of the projects described below showcase my
+  development with Python's scientific stack (especially writing efficient
+  numpy code using vectorisation and matrix operations). Much of this
+  code is embargoed for academic integrity reasons but you can see
+  this implementation of
+  [Expectation-Maximisation for GMM estimation](https://github.com/matomatical/gmm-em-algorithm)
+  for an example of my proficiency with these tools.
+  For more context, see [below](#252-0526-00l-statistical-learning-theory).
 
 ## Notes
 
