@@ -8,20 +8,27 @@ Science at The University of Melbourne.
 If you're just looking for examples of my work, then the most up-to-date
 projects (and I think also the most interesting) are as follows:
 
-* **General writing**: My recent
+* **General writing and analysis**: My recent
   [literature review](farrugia2020distRL-review.pdf)
   and
   [hypothesis + research plan](farrugia2020distRL-plan.pdf)
   on distributional reinforcement learning.
   These are written for a general CS audience and showcase my writing
   ability. For more context, see [below](#comp90044-research-methods).
-* **Technical writing**: My recent
+* **Technical work and writing**: My recent
   [report](farrugia2020expectiles-dopamine.pdf)
   on links between distributional reinforcement learning and neuroscientific
   models of the mammalian reward system.
   This (group work, but I was the main contributor to much of this report)
   showcases my more technical communication abilities.
   For more context, see [below](#227-0395-00l-neural-systems).
+
+  On a different topic, see also my group's [report](farrugia2019space) on
+  scalable massively-multiauthor authorship profiling and attribution.
+  This work shows some simpler but more polished algorithmic work for a 
+  challenging sparse-data NLP supervised learning problem, including
+  empirical tuning and evaluation.
+  For more context, see [below](#COMP90051-statistical-machine-learning).
 * **Programming**: Several of the projects described below showcase my
   development with Python's scientific stack (especially writing efficient
   numpy code using vectorisation and matrix operations). Much of this
