@@ -23,13 +23,13 @@ Expectile-based Distributional Reinforcement Learning*,
 COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
 \[[research plan](farrugia2020distRL-review.pdf)\]
 \[[presentation](farrugia2020distRL-talk.pdf)\]
-\[**general audience**\]
+\[written for a **general audience**\]
 \[[project details](#comp90044-research-methods)\]
 
 *The Promise of Distributional Reinforcement Learning*,
 COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
 \[[literature review](farrugia2020distRL-review.pdf)\]
-\[**general audience**\]
+\[written for a **general audience**\]
 \[[project details](#comp90044-research-methods)\]
 
 *Expectile-based Distributional Reinforcement Learning and
@@ -37,8 +37,8 @@ Dopamine-associated Mental Disorders*,
 227-0395-00L Neural Systems, ETH Zürich, semester 1, **2020**.
 \[[report](farrugia2020expectiles-dopamine.pdf)\]
 \[[project details](#227-0395-00l-neural-systems)\]
-\[**group work** (main contributions in reading RL literature,
-implementation, writing sections 1.1, 1.3, 2, 3, appendix A)\]
+\[**group work**: main contributions in reading RL literature,
+implementation, writing sections 1.1, 1.3, 2, 3, appendix A\]
 
 *Implementing Expectation-Maximisation Algorithm for Gaussian Mixture Model
 Parameter Estimation*,
@@ -54,8 +54,8 @@ semester 2, **2019**.
 \[[code](https://github.com/matomatical/SML-project-1)\]
 \[[kaggle](https://www.kaggle.com/c/whodunnit) (3rd place)\]
 \[[project details](#COMP90051-statistical-machine-learning)\]
-\[**group work** (main contributions in scalability/algorithmic improvements,
-designing leading model, mathematical details in report)\]
+\[**group work**: main contributions in scalability/algorithmic improvements,
+designing leading model, mathematical details in report\]
 
 
 
