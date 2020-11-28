@@ -196,7 +196,7 @@ Assessment:
   Some of my code used in our experiments can be found in other repositories,
   see:
 
-    * [an efficient algorithm for computing sample expectiles](https://github.com/matomatical/expectiles).
+    * [an efficient algorithm for computing sample expectiles](https://github.com/matomatical/expectiles), and
     * [working notebooks for exploring expectiles and distributional RL](https://github.com/matomatical/neuRL).
 
   This was a substantial project, and it pushed me to learn a lot about
@@ -307,7 +307,7 @@ Assessment:
   micro textual data (Tweets) for over 10,000 users.
   We placed third on the class leaderboard in the public and held-out
   evaluations.
-  Our approach is summarised in our [report](farrugia2020space.pdf)
+  Our approach is summarised in our [report](farrugia2019space.pdf)
   and our code can be found in
   [this repository](https://github.com/matomatical/SML-project-1).
 
@@ -315,13 +315,16 @@ Assessment:
   I was chiefly responsible for the mathematical details and was able to
   contribute some algorithmic direction to help our programs scale (in
   hindsight, we might have eeked out even more performance by switching
-  from pure python to numpy in key places).
+  from pure python to numpy in key places). We also worked together
+  closely on the report, however, afterward submission, I added the
+  appendix on scalable implementation tactics alone.
 
   I enjoyed this project a lot. I felt like we were working very close to
   the forefront of this field, because we were innovating over the
   implementation and approaches of the related works which we started from
   and we were able to achieve reasonable success in this very challenging,
-  sparse-data problem.
+  sparse-data problem. Some proffessors commented that we might have come
+  up with truly novel contributions in this area.
 
 #### PHYC90045 Introduction to Quantum Computing
 
@@ -356,6 +359,25 @@ natural language processing.
 [Handbook link](https://handbook.unimelb.edu.au/2019/subjects/comp90049/).
 Final grade: 98.
 
+Assessment:
+
+* The main project in this class was a pair project to implement an
+  *automatic fact verification system* based on a Wikipedia-derived dataset
+  ('FEVER').
+
+  My project partner and I were able to achieve early leading
+  performance on the class leaderboard using a multi-stage evidence
+  retrieval and classification system we dubbed SHERLOCK
+  (we were eventually left behind---it seems we should have just used
+  BERT for sentence embeddings!).
+  Our work is summarised well in our [final report](farrugia2019sherlock.pdf)
+  (unfortunately our code is not publically available).
+
+  This project was my first experience implementing, training, and
+  tuning machine learning models. I worked closely with my project partner
+  throughout the entire project. However, I was chiefly responsible
+  for steps 1--3 (out of 5) in our pipeline.
+
 #### COMP90045 Programming Language Implementation
 
 This subject taught the principles of compiler design and implementation,
@@ -363,11 +385,18 @@ and we implemented a compiler for a toy language using Haskell.
 [Handbook link](https://handbook.unimelb.edu.au/2019/subjects/comp90045/).
 Final grade: 99.
 
-## TODO:
+Assessment:
 
-Notes to self:
+* Our semester project was to implement, in teams of several students, a
+  compiler for a toy language called 'Goat'. The compiler was implemented
+  in Haskell using the Parsec monadic parser combinator library, and we
+  implemented a monadic code generation library too. We also explored
+  lexer and parser generators for Haskell (alex and happy).
 
-* Add more final project details for models of computation.
-* Add projects details and reports from 2019 machine learning classes and
-  compiler project from PLI.
-* Add Sierpinski triangle image for Models of Computation.
+  The code for our final compiler, along with project specifications, is
+  available in
+  [this separate repo](https://github.com/matomatical/Goatlang-Compiler).
+
+  This assignment really pushed all of our Haskell skills, especially with
+  monadic programming. We all worked closely together on the project, so it
+  is difficult to identify any part which is chiefly my own contribution.
