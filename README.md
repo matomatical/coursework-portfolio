@@ -25,9 +25,9 @@ projects (and I think also the most interesting) are as follows:
 
   On a different topic, see also my group's [report](farrugia2019space) on
   scalable massively-multiauthor authorship profiling and attribution.
-  This work shows some simpler but more polished algorithmic work for a 
-  challenging sparse-data NLP supervised learning problem, including
-  empirical tuning and evaluation.
+  This work shows some algorithmic work and also end-to-end training and
+  evaluation work for a challenging data-sparse supervised learning
+  problem.
   For more context, see [below](#COMP90051-statistical-machine-learning).
 * **Programming**: Several of the projects described below showcase my
   development with Python's scientific stack (especially writing efficient
@@ -37,6 +37,9 @@ projects (and I think also the most interesting) are as follows:
   [Expectation-Maximisation for GMM estimation](https://github.com/matomatical/gmm-em-algorithm)
   for an example of my proficiency with these tools.
   For more context, see [below](#252-0526-00l-statistical-learning-theory).
+
+Below is a more detailed description of this and other work from throughout
+my coursework degree.
 
 ## Notes
 
@@ -71,12 +74,12 @@ with links to samples of my work, and some comments on what I learned.
   * [252-0526-00L Statistical Learning Theory](#252-0526-00l-statistical-learning-theory)
   * [252-1424-00L Models of Computation](#252-1424-00l-models-of-computation)
   * [363-0588-00L Complex Networks](#363-0588-00l-complex-networks)
-* Semester 2, 2019
-  * COMP90051 Statistical Machine Learning
-  * PHYC90045 Introduction to Quantum Computing
-* Semester 1, 2019
-  * COMP90049 Web Search and Text Analysis
-  * COMP90045 Programming Language Implementation
+* [Semester 2, 2019](#semester-2-2019)
+  * [COMP90051 Statistical Machine Learning](#comp90051-statistical-machine-learning)
+  * [PHYC90045 Introduction to Quantum Computing](#phyc90045-introduction-to-quantum-computing)
+* [Semester 1, 2019](#semester-1-2019)
+  * [COMP90049 Web Search and Text Analysis](#comp90049-web-search-and-text-analysis)
+  * [COMP90045 Programming Language Implementation](#comp90045-programming-language-implementation)
 
 ### 2021
 
