@@ -215,10 +215,16 @@ Assessment:
     I will not publish my work for these projects because, as I understand,
     the same projects will be used in future semesters.
 
+    These projects pushed my technical skills perhaps the furthest during my
+    exchange experience, as I really had to master numpy and some aspects of
+    scipy to get the algorithms to run at the scale that was required.
+    In the end I was impressed by how far I had come in my ability to write
+    efficient scalable code using vectorisation and matrix operations.
+
 * However, some code I whipped up while studying similar topics during the
   semester is available in other repositories:
-  * [Constant-shift embedding method for graph layout](https://github.com/matomatical/cse-graph-layout)
-  * [Estimation of Gaussian mixture model parameters using EM algorithm](https://github.com/matomatical/gmm-em-algorithm)
+  * [Constant-shift embedding method for graph layout](https://github.com/matomatical/cse-graph-layout).
+  * [Estimation of Gaussian mixture model parameters using EM algorithm](https://github.com/matomatical/gmm-em-algorithm).
     ![Gaussian mixture models estimation animation](https://github.com/matomatical/gmm-em-algorithm/blob/master/em.gif)
 
 #### 252-1424-00L Models of Computation
