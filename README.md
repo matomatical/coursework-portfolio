@@ -35,7 +35,7 @@ with links to samples of my work, and some comments on what I learned.
   * [227-0395-00L Neural Systems](#227-0395-00l-neural-systems)
   * [252-0526-00L Statistical Learning Theory](#252-0526-00l-statistical-learning-theory)
   * [252-1424-00L Models of Computation](#252-1424-00l-models-of-computation)
-  * 363-0588-00L Complex Networks
+  * [363-0588-00L Complex Networks](#363-0588-00l-complex-networks)
 * Semester 2, 2019
   * COMP90051 Statistical Machine Learning
   * PHYC90045 Introduction to Quantum Computing
@@ -54,7 +54,8 @@ Wish me luck!
 
 ### Semester 2, 2020 🦠 
 
-This semester was completed at the University of Melbourne's virtual campus.
+This semester was completed part-time at the University of Melbourne's
+virtual campus.
 
 #### COMP90044 Research Methods
 
@@ -107,19 +108,65 @@ Assessment:
 This semester, I went on an exchange to ETH Zürich. I had to return early
 due to the pandemic, but after recovering from this disruption I was able
 to complete my studies from Melbourne (living on Zürich time to attend
-live Zoom lectures) including a group project on links between neuroscience
-and artificial intelligence:
+live Zoom lectures). I studied four classes for credit and audited two
+additional classes (one on agent-based modelling and another on game
+theory and control systems).
 
 #### 227-0395-00L Neural Systems
 
 This subject, billed as 'an introduction to neuroscience for engineers',
-pushed me far outside of my confort zone. I will publish details of my
-project work shortly.
+pushed me far outside of my comfort zone.
 [Details](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2020S&lerneinheitId=135004&).
 ECTS credits: 6.
 Final grade: 6.0 (6.0 scale).
 
-TODO: Add assessment details
+Assessment:
+
+* The major project work was an open-ended interdisciplinary team research
+  project.
+  Supervised by our lecturer, we were asked to, essentially,
+  'find some interesting parallel between machine learning and
+  neuromodulation, and see if one of these fields can inform the other'.
+
+  The result is captured in our
+  [final report](2020s1-227-0395-00L/farrugia2020expectiles-dopamine.pdf),
+  and I give a brief summary of the key points below:
+
+* Over the semester we developed some ideas concerning Deep Mind's
+  *distributional hypothesis of dopaminergic signalling*. In summary:
+
+  * Their Nature paper claims that dopaminergic neurons encode
+    distributional information in their activity, akin to signals
+    in the nascent *distributional reinforcement learning* paradigm,
+    and in particular that the mammalian reward system may implement
+    expectile-based distributional RL.
+  * We fleshed this out into an architectural model of the reward system
+    as an extension of the neural actor-critic architecture, and
+    identified the expensive 'imputation step' of current expectile-based
+    distributional RL algorithms as a biologically implausible bottleneck.
+  * We investigated more plausible imputation strategies, and we showed
+    in proof-of-concept simulation experiments that the imputation process
+    is vital to the consistency of learning, since plausible low-level
+    defects in the model could manifest themselves at the level of behaviour
+  * We speculated that if the distributional hypothesis is correct then
+    these defects could underly reward-system-related mental disorders such
+    as addiction and Parkinson's disease.
+
+* This was a group project, and the whole group met regularly to discuss
+  and eventually crystallise our hypotheses and model.
+  I was partly responsible for understanding the technical RL side of the
+  work, and I am indebted to my team members for helping me to understand
+  the neuroscience side. I was also responsible for designing and running
+  the majority of our simulation experiments.
+
+  In the report, I was the main contributor to sections 1.1, 1.3, 2, 3, and
+  appendix A. Please see these sections for examples of my work.
+
+  Some of the code used in our experiments can be found in other
+  repositories, see:
+
+    * [an efficient algorithm for computing sample expectiles](https://github.com/matomatical/expectiles).
+    * [working notebooks for exploring expectiles and distributional RL](https://github.com/matomatical/neuRL).
 
 #### 252-0526-00L Statistical Learning Theory
 
