@@ -1,117 +1,95 @@
 # Coursework Portfolio
 
-A directory of of my advanced coursework projects from the Master of Computer
-Science at The University of Melbourne:
+Here is a directory of my advanced coursework projects from 2019 and
+2020 during my Master of Computer Science at The University of Melbourne.
 
-#### Selected Projects:
+In 2021, having completed my coursework, I will embark upon my final year
+Master's thesis project, studying the algebraic geometry of deep learning
+algorithms with
+[Assistant Professor Dr. Daniel Murfet](http://therisingsea.org/).
+Wish me luck!
+
+> #### Disclaimer
+> 
+> Publication here does not grant you permission to use this work.
+> If you are a student, please do your own projects.
+> Academic integrity is to be valued.
+
+
+## Selected Projects
 
 *Tailored Expectile Imputation Algorithms for Efficient
 Expectile-based Distributional Reinforcement Learning*,
 COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
-\[[research plan](farrugia2020distRL-review.pdf) (**general audience**)\]
-\[[presentation](farrugia2020distRL-talk.pdf) (**general audience**)\]
+\[[research plan](farrugia2020distRL-review.pdf)\]
+\[[presentation](farrugia2020distRL-talk.pdf)\]
+\[**general audience**\]
 \[[project details](#comp90044-research-methods)\]
 
 *The Promise of Distributional Reinforcement Learning*,
 COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
 \[[literature review](farrugia2020distRL-review.pdf)\]
-\[**general audience**; [project details](#comp90044-research-methods)\]
+\[**general audience**\]
+\[[project details](#comp90044-research-methods)\]
 
 *Expectile-based Distributional Reinforcement Learning and
 Dopamine-associated Mental Disorders*,
 227-0395-00L Neural Systems, ETH Zürich, semester 1, **2020**.
 \[[report](farrugia2020expectiles-dopamine.pdf)\]
+\[[project details](#227-0395-00l-neural-systems)\]
 \[**group work** (main contributions in reading RL literature,
 implementation, writing sections 1.1, 1.3, 2, 3, appendix A)\]
-\[[project details](#227-0395-00l-neural-systems)\]
 
 *Implementing Expectation-Maximisation Algorithm for Gaussian Mixture Model
 Parameter Estimation*,
 252-0526-00L Statistical Learning Theory, ETH Zürich, semester 1, **2020**.
 \[[repo](https://github.com/matomatical/gmm-em-algorithm)\]
-\[personal study project; [class details](#252-0526-00l-statistical-learning-theory)\]
+\[personal study project\]
+\[[class details](#252-0526-00l-statistical-learning-theory)\]
 
 *Scalable Massively Multi-author Profiling and Attribution of Micro-Messages*,
 COMP90051 Statistical Machine Learning, the University of Melbourne,
-semester 2, **2020**.
+semester 2, **2019**.
 \[[report](farrugia2019space.pdf)\]
 \[[code](https://github.com/matomatical/SML-project-1)\]
 \[[kaggle](https://www.kaggle.com/c/whodunnit) (3rd place)\]
+\[[project details](#COMP90051-statistical-machine-learning)\]
 \[**group work** (main contributions in scalability/algorithmic improvements,
 designing leading model, mathematical details in report)\]
-\[[project details](#COMP90051-statistical-machine-learning)\]
 
-Below is a more detailed description of this and other work from throughout
-my coursework degree.
 
-## Notes
+## Complete Projects
 
-* The reports written for my university projects usually end up quite
-  polished by the submission deadline, but the code usually does *not*.
-  This code is usually written over a few weeks and with minimal effort in
-  readability. Here be dragons.
+Contents:
 
-* Some of the work listed here is joint work with other students, and/or
-  benefits from the guidance of lecturers or teaching assistants.
-  I have attempted to roughly outline which contributions are my own, and
-  I am grateful to have been able to work with such supportive peers.
-
-* Publication here does not grant you permission to use this work.
-  If you are a student, please do your own projects, because academic
-  integrity is to be valued.
-  If you are not a student, please contact me to request a license before
-  using anything in this repository.
-
-## Projects
-
-The following is a list of my most recent substantial coursework projects,
-with links to samples of my work, and some comments on what I learned.
-
-### Table of Contents
-
-* [2021](#2021)
-* [Semester 2, 2020](#semester-2-2020-)
+* Semester 2, 2020 (Part-time @ University of Melbourne, virtual campus 🦠)
   * [COMP90044 Research Methods](#comp90044-research-methods)
-* [Semester 1, 2020](#semester-1-2020-)
+* Semester 1, 2020 (Exchange @ ETH Zürich, interrupted but continued online)
+  * [COMP90044 Research Methods](#comp90044-research-methods)
   * [227-0395-00L Neural Systems](#227-0395-00l-neural-systems)
   * [252-0526-00L Statistical Learning Theory](#252-0526-00l-statistical-learning-theory)
   * [252-1424-00L Models of Computation](#252-1424-00l-models-of-computation)
   * [363-0588-00L Complex Networks](#363-0588-00l-complex-networks)
-* [Semester 2, 2019](#semester-2-2019)
+  * Agent-based Modelling of Social Systems (TODO)
+  * Game Theory for Control (TODO)
+* Semester 2, 2019 (Part-time @ University of Melbourne)
   * [COMP90051 Statistical Machine Learning](#comp90051-statistical-machine-learning)
   * [PHYC90045 Introduction to Quantum Computing](#phyc90045-introduction-to-quantum-computing)
-* [Semester 1, 2019](#semester-1-2019)
+* Semester 1, 2019 (Part-time @ University of Melbourne)
   * [COMP90042 Web Search and Text Analysis](#comp90042-web-search-and-text-analysis)
   * [COMP90045 Programming Language Implementation](#comp90045-programming-language-implementation)
-
-### 2021
-
-In 2021, having completed my coursework, I will embark upon my
-1-year Master's thesis project.
-The plan is to study the mathematics of deep learning algorithms
-with [Assistant Professor Dr. Daniel Murfet](http://therisingsea.org/)
-over in the School of Mathematics and Statistics.
-Wish me luck!
-
-### Semester 2, 2020 🦠 
-
-This semester was completed part-time at the University of Melbourne's
-virtual campus.
 
 #### COMP90044 Research Methods
 
 This subject taught the fundamentals of research writing and conduct,
-using a mock research topic.
+using a mock research topic
+(I chose *distributional reinforcement learning*).
 [Handbook link](https://handbook.unimelb.edu.au/2020/subjects/comp90044/).
-Final grade forthcoming.
-
+Final grade forthcoming (est. 90--95).
 
 Assessment:
 
-* Following some of my work from the previous semester,
-  I chose the topic of *distributional reinforcement learning*.
-
-* For the first assignment, I compiled a
+* For a first assignment, I compiled a
   [literature review](farrugia2020distRL-review.pdf)
   on distributional reinforcement learning.
 
@@ -121,7 +99,6 @@ Assessment:
     messages without resorting to any equations. In fact, on several
     occasions I was only attempting to introduce mathematical detail for
     its own sake, and I obtained a more cohesive review after removing it.
-    (For a more technical report, see my work for Neural Systems from 2020s1.)
 
     ![Distributional reinforcement learning](images/figure-2.png)
 
@@ -144,14 +121,6 @@ Assessment:
     Note: I was not asked to present this talk, but I did prepare as if to
     present it as part of validating the timing and balance of the talk.
 
-### Semester 1, 2020 🇨🇭🦠
-
-This semester, I went on an exchange to ETH Zürich. I had to return early
-due to the pandemic, but after recovering from this disruption I was able
-to complete my studies from Melbourne (living on Zürich time to attend
-live Zoom lectures). I studied four classes for credit and audited two
-additional classes (one on agent-based modelling and another on game
-theory and control systems).
 
 #### 227-0395-00L Neural Systems
 
@@ -301,10 +270,6 @@ Assessment:
     didn't mind.
 
 
-### Semester 2, 2019
-
-This semester, I studied part-time at the University of Melbourne's
-Parkville campus.
 
 #### COMP90051 Statistical Machine Learning
 
@@ -360,10 +325,6 @@ Final grade: 99.
   Since the assignments are re-used from year to year, I won't publish my
   solutions.
 
-### Semester 1, 2019
-
-This semester, I studied part-time at the University of Melbourne's
-Parkville campus.
 
 #### COMP90042 Web Search and Text Analysis
 
