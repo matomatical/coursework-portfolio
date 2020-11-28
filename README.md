@@ -1,20 +1,24 @@
 # Coursework Portfolio
 
 A directory of of my advanced coursework projects from the Master of Computer
-Science at The University of Melbourne.
+Science at The University of Melbourne:
+
 
 ## Highlights
 
-If you're just looking for examples of my work, then the most up-to-date
-projects (and I think also the most interesting) are as follows:
+* Farrugia-Roberts, Matthew,
+  *Tailored Expectile Imputation Algorithms for Efficient
+  Expectile-based Distributional Reinforcement Learning*,
+  COMP90044 Research Methods, semester 2, 2020.
+  \[[plan](farrugia2020distRL-review.pdf); [presentation](farrugia2020distRL-talk.pdf)\]
+  \[**general audience**; [details](#comp90044-research-methods)\]
 
-* **General writing and analysis**: My recent
-  [literature review](farrugia2020distRL-review.pdf)
-  and
-  [hypothesis + research plan](farrugia2020distRL-plan.pdf)
-  on distributional reinforcement learning.
-  These are written for a general CS audience and showcase my writing
-  ability. For more context, see [below](#comp90044-research-methods).
+* Farrugia-Roberts, Matthew,
+  *The Promise of Distributional Reinforcement Learning*,
+  COMP90044 Research Methods, semester 2, 2020.
+  \[[review](farrugia2020distRL-review.pdf)\]
+  \[**general audience**; [details](#comp90044-research-methods)\]
+
 * **Technical work and writing**: My recent
   [report](farrugia2020expectiles-dopamine.pdf)
   on links between distributional reinforcement learning and neuroscientific
