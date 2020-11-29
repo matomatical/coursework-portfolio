@@ -161,10 +161,11 @@ Assessment:
   * We investigated more plausible imputation strategies, and we showed
     in proof-of-concept simulation experiments that the imputation process
     is vital to the consistency of learning, since plausible low-level
-    defects in the model could manifest themselves at the level of behaviour
+    defects we introduced in the model could manifest themselves at the
+    level of behaviour.
   * We speculated that if the distributional hypothesis is correct then
-    these defects could underly reward-system-related mental disorders such
-    as addiction and Parkinson's disease.
+    similar defects could underlie reward-system-related mental disorders
+    such as addiction and Parkinson's disease.
   * We found a number of other minor insights which we included in the
     appendix.
 
@@ -191,8 +192,8 @@ Assessment:
   actually never studied before---I read all of Sutton and Barto over a
   few weeks during this project).
   I also got to practice writing RL and ML Python code using the scientific
-  stack and, though most of our eventual experiments were tabular, a little
-  tensorflow.
+  stack and, though most of our eventual experiments were tabular, also a
+  little tensorflow.
 
 #### 252-0526-00L Statistical Learning Theory
 
