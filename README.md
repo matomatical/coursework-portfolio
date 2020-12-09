@@ -85,7 +85,7 @@ This subject taught the fundamentals of research writing and conduct,
 using a mock research topic
 (I chose *distributional reinforcement learning*).
 [Handbook link](https://handbook.unimelb.edu.au/2020/subjects/comp90044/).
-Final grade forthcoming (est. 90--95).
+Final grade 94.
 
 Assessment:
 
