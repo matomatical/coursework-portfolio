@@ -184,8 +184,10 @@ Assessment:
   Some of the code I used in these experiments can be found in other
   repositories, see:
 
-    * [an efficient algorithm for computing sample expectiles](https://github.com/matomatical/expectiles), and
-    * [working notebooks for exploring expectiles and distributional RL](https://github.com/matomatical/neuRL).
+    * [an efficient algorithm for computing sample expectiles](https://github.com/matomatical/expectiles),
+    * [tabular implementation of various distributional RL algorithms](https://github.com/matomatical/tabular-distRL), and
+    * [more working notebooks for exploring expectiles, distributional RL,
+      the associated neural data, and our simulation experiments](https://github.com/matomatical/neuRL).
 
   This was a substantial project, and it pushed me to learn a lot about
   the reward system (not to mention reinforcement learning, which I had
