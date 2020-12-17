@@ -36,7 +36,7 @@ COMP90044 Research Methods, the University of Melbourne, semester 2, **2020**.
 Dopamine-associated Mental Disorders*,
 227-0395-00L Neural Systems, ETH Zürich, semester 1, **2020**.
 \[[report](farrugia2020expectiles-dopamine.pdf)\]
-\[[project details](#227-0395-00l-neural-systems)\]
+\[[project details and code](#227-0395-00l-neural-systems)\]
 \[**group work**: main contributions in reading RL literature,
 implementation, writing sections 1.1, 1.3, 2, 3, appendix A\]
 
