@@ -9,12 +9,13 @@ algorithms with
 [Assistant Professor Dr. Daniel Murfet](http://therisingsea.org/).
 Wish me luck!
 
+Update: Master's thesis [available here](https://far.in.net/mthesis).
+
 > #### Disclaimer
 > 
 > Publication here does not grant you permission to use this work.
 > If you are a student, please do your own projects.
 > Academic integrity is to be valued.
-
 
 ## Selected Projects
 
