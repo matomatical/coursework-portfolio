@@ -1,5 +1,8 @@
 # Coursework Portfolio
 
+**Update:** This page is not maintained. An update portfolio is available at
+my [personal website](https://far.in.net/coursework).
+
 Here is a directory of my advanced coursework projects from 2019 and
 2020 during my Master of Computer Science at The University of Melbourne.
 
@@ -9,7 +12,7 @@ algorithms with
 [Assistant Professor Dr. Daniel Murfet](http://therisingsea.org/).
 Wish me luck!
 
-Update: Master's thesis [available here](https://far.in.net/mthesis).
+**Update:** Master's thesis [available here](https://far.in.net/mthesis).
 
 > #### Disclaimer
 > 
